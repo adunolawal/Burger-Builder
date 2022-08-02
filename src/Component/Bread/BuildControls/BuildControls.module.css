@@ -1,0 +1,17 @@
+.Buildcontrols{
+    width: 100%;
+    display: flex;
+    flex-flow: column;
+    margin: auto;
+    align-items: center;
+    padding: 10px 0;
+    box-shadow: 0 2px 1px burlywood;
+    overflow: scroll;
+}
+.OrderBtn {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-color: chocolate;
+}

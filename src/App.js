@@ -1,9 +1,11 @@
-import './App.css';
+import React from "react";
+import Burger from "./containers/Burger/Burger";
 
-function App() {
+const App =()=> {
+    
   return (
     <div className="App">
-      <h1>WELCOME</h1>
+      <Burger></Burger>  
     </div>
   );
 }
